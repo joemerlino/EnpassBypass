@@ -1,0 +1,9 @@
+Package: com.joemerlino.enpassbypass
+Name: EnpassBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass Enpass jailbreak detection.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
