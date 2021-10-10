@@ -1,3 +1,5 @@
+#import <UIKit/UIKit.h>
+
 %hook NSFileManager
 - (BOOL)removeItemAtPath:(NSString *)path error:(NSError * _Nullable *)error{
 	if([path containsString:@"jailbreak.txt"])
